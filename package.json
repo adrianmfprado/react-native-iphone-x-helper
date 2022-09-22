@@ -1,5 +1,5 @@
 {
-  "name": "react-native-iphone-x-helper",
+  "name": "@adrianmfprado/react-native-iphone-x-helper",
   "version": "2.0.0",
   "description": "A library to help you design your react-native app for the iPhone X",
   "main": "index.js",
@@ -10,6 +10,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ptelad/react-native-iphone-x-helper.git"
+  },
+  "publishConfig": {
+    "@adrianmfprado:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react-native",
